@@ -1,35 +1,34 @@
 # Le Collectionist
 
-This template should help get you started developing with Vue 3 in Vite.
+Création d'un dashboard de films:
 
-## Recommended IDE Setup
+- Header
+  - Logo + Lien vers la page liste
+- Page d'accueil
+  - Image d'un film que tu veux en fond
+  - Liste de 4 films du moments
+- Listing
+  - Tabs avec différentes catégories (Action | Animation | Aventure | Comédie | Documentaire)
+  - Listing de film liés à la catégorie sélectionné
+- Favoris
+  - Ajout / suppression
+  - Affichage sur la liste des maisons ajoutées
+- Prérequis
+  - Création de composant de Base (ui/ux) (BaseTabs, BaseCard...)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+Api à utiliser: https://developers.themoviedb.org/3/getting-started/introduction
 
-## Customize configuration
+Techno:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Vue3, Pinia
 
-## Project Setup
+Les plus :
 
-```sh
-npm install
-```
+- Typescript
+- Tailwind
 
-### Compile and Hot-Reload for Development
+Pour le design tu peux t'inspirer de Netflix ou laisser parler ton imagination
 
-```sh
-npm run dev
-```
+Une fois que tu as fini, crée un repo git public et envoie moi le lien
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Bon courage ! 🤓
