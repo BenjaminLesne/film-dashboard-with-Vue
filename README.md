@@ -32,3 +32,9 @@ Pour le design tu peux t'inspirer de Netflix ou laisser parler ton imagination
 Une fois que tu as fini, crée un repo git public et envoie moi le lien
 
 Bon courage ! 🤓
+
+# Installation
+- clone ce repository: git clone https://github.com/BenjaminLesne/le-collectionist-test.git
+- Ensuite dans le terminal dans le dossier root : npm install
+- De nouveau dans le terminal, lancer l'application dans votre navigateur avec: npm run dev
+- L'application doit tourner sur le port par default (http://localhost:3000/le-collectionist-test/)
